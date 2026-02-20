@@ -1,4 +1,4 @@
-# t8nlab org
+# Titan Lab (t8nlab) 🧪
 
 > Multithreaded JavaScript
 
@@ -6,7 +6,7 @@
 
 ### ⚙️ What We Do
 
-At t8nlab we builds **system-grade infrastructure for JavaScript**.
+At Titan Lab we builds **system-grade infrastructure for JavaScript**.
 
 We design runtime architecture that compiles JavaScript into native Rust-powered binaries — removing traditional Node.js deployment constraints and enabling deterministic, multi-threaded execution at scale.
 
