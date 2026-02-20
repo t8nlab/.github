@@ -1,4 +1,4 @@
-# t8nlab
+# t8nlab org
 
 > Multithreaded JavaScript
 
@@ -6,7 +6,7 @@
 
 ### ⚙️ What We Do
 
-t8nlab builds **system-grade infrastructure for JavaScript**.
+At t8nlab we builds **system-grade infrastructure for JavaScript**.
 
 We design runtime architecture that compiles JavaScript into native Rust-powered binaries — removing traditional Node.js deployment constraints and enabling deterministic, multi-threaded execution at scale.
 
